@@ -1,0 +1,53 @@
+/* Default styles */
+body {
+    background: #ec600c;
+    color: white;
+    font-family: "Rage Italic", cursive;
+}
+
+/* Header styles */
+header {
+    background: #1144ff;
+    padding: 20px;
+}
+
+/* Heading styles */
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 3px solid #ec600c;
+}
+
+h2 {
+    text-transform: uppercase;
+    border-bottom: 3px solid #1144ff;
+}
+
+h3 {
+    text-transform: uppercase;
+    border-bottom: 3px solid #1144ff;
+}
+
+/* Navigation styles */
+nav {
+    color: white;
+}
+
+/* Link styles */
+a {
+    color: coral;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+/* Paragraph styles */
+p {
+    font-size: x-large;
+}
+
+/* Footer styles */
+footer {
+    border: 3px solid #1144ff;
+}
