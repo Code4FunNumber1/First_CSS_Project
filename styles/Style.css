@@ -50,4 +50,8 @@ p {
 /* Footer styles */
 footer {
     border: 3px solid #1144ff;
+    a {
+        color: #1144ff
+    }
+
 }
